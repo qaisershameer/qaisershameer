@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Flutter-Dart+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Data+Science;Flutter-Dart+Learning" width="auto" height="35" alt="Typing"/>
 </p>
-<p align="center">Currently learning -> Flutter-Dart / Laravel React JS</p>
+<p align="center">Currently learning -> Flutter-Dart / Laravel / Vue.JS</p>
 <p align="center">Currently working on -> Private Projects</p>
 <br>
 <h2 align="center">💻 My tech stack:</h2>
@@ -36,13 +36,11 @@ Here are some ideas to get you started:
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" width="65" height="65" alt="Worpress"/><br><b>Worpress</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="65" height="65" alt=""Laravel"/><br><b>Laravel</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="65" height="65" alt="Flutter"/><br><b>Flutter</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="65" height="65" alt="Dart"/><br><b>Dart</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="65" height="65" alt="Dart"/><br><b>Dart</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="65" height="65" alt="SQL Server"/><br><b>(Database)</b></td>
 </tr>
 </table>
 <br>
-
-// missing lines
 
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
