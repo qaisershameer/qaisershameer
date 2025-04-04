@@ -34,7 +34,7 @@ Here are some ideas to get you started:
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="65" height="65" alt="Dart"/><br><b>Dart</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="65" height="65" alt="Flutter"/><br><b>Flutter</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" width="65" height="65" alt="Visual Basic6.0"/><br><b>VB 6.0</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/seagate-1.svg" width="65" height="65" alt="Crystal Report"/><br><b>VB 6.0</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/seagate-1.svg" width="65" height="65" alt="Crystal Report"/><br><b>Crystal Report</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="65" height="65" alt="SQL Server"/><br><b>SQL Server</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-2.svg" width="65" height="65" alt="MY-SQL"/><br><b>MySQL</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML</b></td>
